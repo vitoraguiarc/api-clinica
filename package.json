@@ -1,0 +1,19 @@
+{
+  "name": "api-clinica",
+  "version": "1.0.0",
+  "description": "API REST capaz  de cadastrar e listar os  dados  dos  pacientes  cadastrados.  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Vitor Aguiar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.25.3"
+  }
+}
